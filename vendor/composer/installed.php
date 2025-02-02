@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'krayin/laravel-crm',
-        'pretty_version' => '2.0.x-dev',
-        'version' => '2.0.9999999.9999999-dev',
-        'reference' => '5e8d51a0f5f4f11e3c6b43803981ed5b31f864e4',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'f71f4fb6d94608d902fff50675df807525aca391',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -553,9 +553,9 @@
             'dev_requirement' => true,
         ),
         'krayin/laravel-crm' => array(
-            'pretty_version' => '2.0.x-dev',
-            'version' => '2.0.9999999.9999999-dev',
-            'reference' => '5e8d51a0f5f4f11e3c6b43803981ed5b31f864e4',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'f71f4fb6d94608d902fff50675df807525aca391',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
